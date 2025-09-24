@@ -32,11 +32,7 @@
 
 ---
 
-### 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salim-Nuhu&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Salim-Nuhu&theme=tokyonight" height="160"/>
-</p>
+
 
 ---
 
