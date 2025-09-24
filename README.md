@@ -1,66 +1,85 @@
-### Hi there 👋
+# Hi there 👋, I'm Salim-Nuhu
 
-<img align="right" height="204" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif"  />
+<img align="right" height="200" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'><g transform='translate(100,100)'><text x='0' y='0' font-size='56' text-anchor='middle' dominant-baseline='central'>👋</text><animateTransform attributeName='transform' type='rotate' from='-18 0 0' to='18 0 0' dur='1s' repeatCount='indefinite' /></g></svg>" />
 
-###
+---
 
 <div align="center">
-  <a href="https://discord.com/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://github.com/Salim-Nuhu" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="28"/>
   </a>
   <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" height="28"/>
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋, I'm Salim-Nuhu</h1>
+## About me
+I'm **Salim** — a backend-minded developer on the path to full-stack and mobile development. I enjoy building practical, maintainable systems and learning technologies end-to-end: from APIs and databases to UIs and mobile apps.
 
-###
+- 🔭 Currently: building backend services with **Go** and **MongoDB**  
+- 🌱 Learning: **React / Next.js**, mobile apps (React Native / Flutter), and advanced backend concepts (scaling, databases, cloud)  
+- 💡 Interests: system design, digital security, networking, ML experiments  
+- ⚡ Motto: *Keep building, keep learning.*
 
-<h3 align="left">👨‍💻 Coding | Research | Networking 🔐 | Machine Learning | Exploring Digital Security 🛡️</h3>
+---
 
-###
+## Current focus
+1. Solidify backend fundamentals — Go, REST & GraphQL, MongoDB.  
+2. Level up frontend: React → Next.js.  
+3. Ship small full-stack projects and iterate quickly.  
+4. Explore mobile apps and cloud deployment (Docker, Kubernetes, basic infra).
 
-<p align="left">
-I'm passionate about technology 🌍<br><br>
-- 🔭 Currently working on exciting tech projects<br>
-- 📚 Always learning something new in development & research<br>
-- ⚡ In my free time, I dive into coding, networking, and exploring digital innovation
-</p>
+---
 
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-###
+## Skills & Tools
 
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
 </div>
 
-###
+---
 
-<div align="right" style="margin-top: -20px;">
-  <img src="https://streak-stats.demolab.com/?user=Salim-Nuhu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
-</div>
+## Projects & Highlights
+- **API Starter (Go + MongoDB)** — minimal, idiomatic REST API template with JWT auth and modular structure.  
+- **Hotel Reservation System (GCTU)** — student hostel reservation project (DB design, backend endpoints, basic frontend).  
+- **Learning log** — short notes & mini-tutorials while I learn new stacks (found in `/notes`).
 
-<hr>
+> Want to try something? Check the `issues` on this repo — I often leave small, beginner-friendly tasks for myself and collaborators.
 
+---
+
+## How I work
+- I focus on small, frequent wins and weekly reviews.  
+- I prefer late-night sessions for deep work (low distractions, lower data cost 😅).  
+- I document everything — README, `changelogs`, and small notes for future me.
+
+---
+
+## Get in touch
+- GitHub: [github.com/Salim-Nuhu](https://github.com/Salim-Nuhu)  
+- LinkedIn: `your-linkedin`  
+- Telegram / Discord: links above — DM me for collabs, help, or code reviews.
+
+---
+
+## Fun stats
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+  <img src="https://streak-stats.demolab.com/?user=Salim-Nuhu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="coding streak" />
 </div>
+
+---
+
+Thanks for visiting — I love feedback and collabs. If you see something I can improve in my projects, open an issue or drop a message. 🚀
